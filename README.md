@@ -32,3 +32,6 @@ To demonstrate how healthcare data visualization can summarize service utilizati
 
 ## Live Dashboard
 [View the Healthcare Service Utilization Dashboard](https://datastudio.google.com/reporting/38c0b521-d9db-42bc-b13c-a5a115b30660)
+## Dashboard Preview
+
+![Healthcare Service Utilization Dashboard](HEALTHCARE%20SERVICE%20UTILIZATION%20DASHBOARD.png)
